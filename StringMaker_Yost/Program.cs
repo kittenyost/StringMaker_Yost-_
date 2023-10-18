@@ -1,4 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Kathy Yost
+// IT113
+// NOTES: notes the instructor should read
+// BEHAVIORS NOT IMPLIMENTED AND WHY:
+
 using StringMaker_Yost;
 
 StringManager sm = new StringManager();
